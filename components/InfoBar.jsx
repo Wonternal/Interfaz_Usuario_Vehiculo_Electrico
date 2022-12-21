@@ -14,7 +14,7 @@ const InfoBar = () => {
         <View style={styles.infoBarContainer}>
             <ImageBackground source={require("../assets/images.jpeg")} style={styles.image}>
                 <View style={styles.leftIcons}>
-                    <Image source={require("../assets/cube.png")} style={styles.iconStyle} />
+                    <Image source={require("../assets/coche.png")} style={styles.iconStyle} />
                 </View>
                 <View style={styles.rightIcons}>
                     <Image source={require("../assets/shield.png")} style={styles.iconStyle} />
